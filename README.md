@@ -1,6 +1,3 @@
-# curso_autenticao_de_apis_com_jwt
-Códigos do Curso Autenticação de Apis com Jwt
-
 ## 💻 Curso: Autenticação de Apis Laravel com Jwt
 
 - Código do curso Autenticação de Apis Laravel com Jwt da EspecializaTi Academy - Prof. Carlos Ferreira.
